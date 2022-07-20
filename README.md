@@ -1,1 +1,1 @@
-# My-Projects
+This is project for data analysis of population of India written in Python and using libraries like pandas for analysis and matplotlib for data visualization. All data is stored in a csv file and fetched.
