@@ -1,1 +1,8 @@
-This is project for data analysis of population of India written in Python and using libraries like pandas for analysis and matplotlib for data visualization. All data is stored in a csv file and fetched.
+# Project Overview
+This data analysis project analyses the population dataset for India (as of 2011) and provides users with the appropriate results.
+Visualization of data is also employed. 
+
+## Technologies used
+- Python
+- Pandas 
+- Matplotlib 
