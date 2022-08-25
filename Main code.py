@@ -177,7 +177,7 @@ while(True):
                         p.legend()
                         p.grid(True)
                         p.show()
-                    elif ch71==2: ##############################################
+                    elif ch71==2: 
                         rp=dp['Rural population']
                         up=dp['Urban population']
                         sut=dp.index
