@@ -288,7 +288,7 @@ while(True):
             elif ch7==3:
                 break
     elif ch==8:
-        print('Name : Aviral Jain\nClass : 12th - C\nRoll no. : 13')
+        print('Name : Aviral Jain')
         next=input('Press Enter to go back to Main Menu........')
         
                               
